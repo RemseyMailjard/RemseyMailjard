@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RemseyMailjard
+- 👋 Hi, I’m @RemseyMailjard. IT trainer, consultant and developer. Specialized in Power Platform (Power Apps, Power Automate en Power BI).
 - 👀 I’m interested in Software Development, RPA
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on ...
