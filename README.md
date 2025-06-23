@@ -1,4 +1,4 @@
-<!--
+## <!--
   HEY! 👋
   You've found the source code for my GitHub profile!
   Feel free to take inspiration, but if you use significant parts,
@@ -19,6 +19,9 @@
 <h1 align="center">
   Hi there, I'm Remsey Mailjard! 👋
 </h1>
+
+## Title
+# Subtitle
 
 <p align="center">
   <em>IT Trainer, Consultant & Software Developer | Founder of <a href="https://www.skills4-it.nl" target="_blank">Skills4-IT</a></em><br />
