@@ -1,4 +1,3 @@
-## <!--
   HEY! 👋
   You've found the source code for my GitHub profile!
   Feel free to take inspiration, but if you use significant parts,
