@@ -3,14 +3,6 @@
   You've found the source code for my GitHub profile!
   Feel free to take inspiration, but if you use significant parts,
   a little credit or a star on one of my repos would be awesome!
-  *****************************************************************
-  *  팁: GitHub은 HTML 주석을 렌더링하지 않습니다!                *
-  *  Tip: GitHub doesn't render HTML comments!                   *
-  *  Conseil : GitHub ne rend pas les commentaires HTML !        *
-  *  Tipp: GitHub rendert keine HTML-Kommentare!                 *
-  *   consejo: ¡GitHub no renderiza comentarios HTML!             *
-  *****************************************************************
--->
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQHUm_dAf3HeuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712136949112?e=1752710400&v=beta&t=A8BwwFXN5uIdVmEck8OIDw27TeJkL9c34xO8pvFwgMM" alt="Remsey Mailjard Banner" width="100%"/>
