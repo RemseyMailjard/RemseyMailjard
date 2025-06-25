@@ -11,9 +11,6 @@
   Hi there, I'm Remsey Mailjard! 👋
 </h1>
 
-## Title
-# Subtitle
-
 <p align="center">
   <em>IT Trainer, Consultant & Software Developer | Founder of <a href="https://www.skills4-it.nl" target="_blank">Skills4-IT</a></em><br />
   🚀 Bridging the gap between complex technology and practical application, one empowered professional at a time.
