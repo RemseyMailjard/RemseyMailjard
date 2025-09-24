@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋 Hey there! I'm Remsey Mailjard!  Welcome to my GitHub profile. 
+ 👋 Hey there! Welcome to my GitHub profile. 
 </h1>
 Here you’ll find the source code behind my projects, experiments, and ideas.  
 Feel free to explore and take inspiration. If you use larger parts of my work,  
