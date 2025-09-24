@@ -135,9 +135,6 @@ Don't hesitate to reach out if you have an idea, a challenge, or just want to di
 A cornerstone of my commitment to education and mentorship. This repository hosts a collaborative, end-to-end project where students tackle real-world IT challenges. They learn modern IT practices, teamwork, agile methodologies, and gain hands-on experience with Microsoft technologies, all under guided mentorship.
 *   **Tech Stack:** Microsoft 365, Power Platform, Azure, Agile principles.
 *   **Impact:** Equipping the next generation of IT professionals with practical skills and confidence.
-
-*(Feel free to add 1-2 more key projects here if you have them!)*
-
 ---
 
 ## ⚡ My Philosophy
