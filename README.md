@@ -1,16 +1,9 @@
-  HEY! 👋
-  You've found the source code for my GitHub profile!
-  Feel free to take inspiration, but if you use significant parts,
-  a little credit or a star on one of my repos would be awesome!
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHUm_dAf3HeuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712136949112?e=1752710400&v=beta&t=A8BwwFXN5uIdVmEck8OIDw27TeJkL9c34xO8pvFwgMM" alt="Remsey Mailjard Banner" width="100%"/>
-</p>
-
 <h1 align="center">
-  Hi there, I'm Remsey Mailjard! 👋
+ 👋 Hey there! I'm Remsey Mailjard! 👋 Welcome to my GitHub profile. 🚀  
 </h1>
-
+Here you’ll find the source code behind my projects, experiments, and ideas.  
+Feel free to explore and take inspiration. If you use larger parts of my work,  
+a ⭐️ on one of my repositories or a small credit would mean a lot!  
 <p align="center">
   <em>IT Trainer, Consultant & Software Developer | Founder of <a href="https://www.skills4-it.nl" target="_blank">Skills4-IT</a></em><br />
   🚀 Bridging the gap between complex technology and practical application, one empowered professional at a time.
