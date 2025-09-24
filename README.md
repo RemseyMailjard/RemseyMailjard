@@ -20,7 +20,8 @@ a ⭐️ on one of my repositories or a small credit would mean a lot!
 
 ## 🎯 About Me
 
-I'm **Remsey Mailjard**, a passionate IT professional dedicated to making technology **practical, accessible, and engaging**. As the founder of [**Skills4-IT**](https://www.skills4-it.nl), my mission is to empower individuals and organizations by demystifying IT concepts and fostering innovation.
+I'm **Remsey Mailjard** — an IT trainer, consultant, and developer passionate about making technology **practical, accessible, and engaging**.  
+As the founder of [**Skills4-IT**](https://www.skills4-it.nl), my mission is to help people and organizations work smarter by **demystifying IT concepts** and turning them into opportunities for **growth and innovation**.
 
 With a robust background in software development and a deep specialization in **Microsoft's Power Platform (Power Apps, Power Automate, Power BI)**, I thrive on architecting smart solutions and delivering impactful training. My expertise extends across the **Microsoft 365 ecosystem, Azure cloud services, and the exciting world of AI**.
 
