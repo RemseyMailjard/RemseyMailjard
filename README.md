@@ -8,6 +8,14 @@ a ⭐️ on one of my repositories or a small credit would mean a lot!
   <em>IT Trainer, Consultant & Software Developer | Founder of <a href="https://www.skills4-it.nl" target="_blank">Skills4-IT</a></em><br />
   🚀 Bridging the gap between complex technology and practical application, one empowered professional at a time.
 </p>
+## ⚡ My Philosophy
+
+> **Learn. Build. Teach. Repeat.**
+
+And a quote I live by:
+> *"Discipline is choosing between what you want now and what you want most."*
+
+This encapsulates my approach to continuous learning, creating valuable solutions, sharing knowledge, and staying focused on long-term goals.
 
 <p align="center">
   <a href="https://linkedin.com/in/remseymailjard/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
