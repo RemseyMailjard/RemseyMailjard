@@ -1,12 +1,12 @@
 <h1 align="center">
- 👋 Hey there! Welcome to my GitHub profile. 
+ 👋 Welcome to my GitHub profile!
 </h1>
 Here you’ll find the source code behind my projects, experiments, and ideas.  
-Feel free to explore and take inspiration. If you use larger parts of my work,  
-a ⭐️ on one of my repositories or a small credit would mean a lot!  
+Feel free to explore, learn, and take inspiration. If you decide to use larger parts of my work,  
+a ⭐️ on one of my repositories or a small credit would mean the world to me.  
 <p align="center">
   <em>IT Trainer, Consultant & Software Developer | Founder of <a href="https://www.skills4-it.nl" target="_blank">Skills4-IT</a></em><br />
-  🚀 Bridging the gap between complex technology and practical application, one empowered professional at a time.
+  🚀 Passionate about bridging the gap between complex technology and practical application—empowering professionals to grow, innovate, and succeed.
 </p>
 ## ⚡ My Philosophy
 
